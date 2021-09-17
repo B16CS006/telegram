@@ -1,2 +1,6 @@
 cristro_bot/cristrobot.json
 **package-lock.json
+addMember/**.session
+addMember/**.session-journal
+addMember/credentials.txt
+**.csv
